@@ -1,0 +1,513 @@
+[
+  {
+    "id": "events-img-2750",
+    "category": "events",
+    "file": "IMG_2750.jpg",
+    "path": "/photos/events/img-2750",
+    "width": 6238,
+    "height": 4159,
+    "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAACwAQCdASoQAAsAA4BaJZQCdACbtVMAAP73wIQO/YXNWeBXTbKtS5QA6taSrovvv65f7+Pl1jFB8w8rE0kziab90OW7+UFmSLTbN2sk9e9c6NnETJGMbcbDAAA=",
+    "color": "#080808",
+    "exif": {
+      "camera": "Canon EOS RP",
+      "lens": "RF24-105mm F4-7.1 IS STM",
+      "focal": "24mm",
+      "aperture": "f/4.5",
+      "shutter": "1/50s",
+      "iso": "ISO 3200"
+    },
+    "sourceMtime": 1792843782875.9663
+  },
+  {
+    "id": "events-img-3034",
+    "category": "events",
+    "file": "IMG_3034.jpg",
+    "path": "/photos/events/img-3034",
+    "width": 3812,
+    "height": 5717,
+    "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JZwDCgCIGxOKaV4QipcyQ4AD+8NlxWpJUgB7pseWba3hVlUW1tlimRb95otc4cYV01c2LxFhmEbGdKZcGfwv8D+u3bsDseKgdRAZgAAA=",
+    "color": "#080808",
+    "exif": {
+      "camera": "Canon EOS RP",
+      "lens": "RF24-105mm F4-7.1 IS STM",
+      "focal": "85mm",
+      "aperture": "f/7.1",
+      "shutter": "1/125s",
+      "iso": "ISO 1600"
+    },
+    "sourceMtime": 1792843801927.1743
+  },
+  {
+    "id": "events-img-3450",
+    "category": "events",
+    "file": "IMG_3450.jpg",
+    "path": "/photos/events/img-3450",
+    "width": 4159,
+    "height": 6238,
+    "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQAwCdASoQABgAPu1iqU2ppaOiMAgBMB2JQAALufpmqAH0HAJuJ4QA/vN/H3kW4TDG/4rdGZjyh/VbzVxVGzk3RcCN7y470X0vr9LnbOyUdmez7y1+V93Sax5blHDAAAA=",
+    "color": "#080808",
+    "exif": {
+      "camera": "Canon EOS RP",
+      "lens": "RF24-105mm F4-7.1 IS STM",
+      "focal": "68mm",
+      "aperture": "f/6.3",
+      "shutter": "1/80s",
+      "iso": "ISO 320"
+    },
+    "sourceMtime": 1792843825790.132
+  },
+  {
+    "id": "events-img-4479",
+    "category": "events",
+    "file": "IMG_4479.jpg",
+    "path": "/photos/events/img-4479",
+    "width": 4160,
+    "height": 6240,
+    "blur": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAABQBACdASoQABgAPu1iqU2ppaQiMAgBMB2JbACdL1yBpAmxbOdc+sZwmPWwAP7w33pLnO7ouBdwGUK5NOqujSsLnkkgO88BHTGhKeuWfFkOMy6V981OWDM6zoIDbjemWEfLozZE+06ZG2w/ZfMtXhww0AZhVhJRI+P77GEX075CD4bcwGp9P8MUAAA=",
+    "color": "#080808",
+    "exif": {
+      "camera": "Canon EOS RP",
+      "lens": "RF24-105mm F4-7.1 IS STM",
+      "focal": "24mm",
+      "aperture": "f/5",
+      "shutter": "1/125s",
+      "iso": "ISO 1600"
+    },
+    "sourceMtime": 1795011228656.7334
+  },
+  {
+    "id": "events-img-4529",
+    "category": "events",
+    "file": "IMG_4529.jpg",
+    "path": "/photos/events/img-4529",
+    "width": 4160,
+    "height": 6240,
+    "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAADwAwCdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdACHfNTRJ+Hyr3vXgAP70HdleS/tays2Gyaj9XJFs9u94DrGhkKg5aEqDc+bKo5+2tnUk4wx6F+80QjIYrquoK5EtNuqDaR73u/iZyh3qTgAAAA==",
+    "color": "#080808",
+    "exif": {
+      "camera": "Canon EOS RP",
+      "lens": "RF24-105mm F4-7.1 IS STM",
+      "focal": "57mm",
+      "aperture": "f/5.6",
+      "shutter": "1/100s",
+      "iso": "ISO 1600"
+    },
+    "sourceMtime": 1795011198085.4211
+  },
+  {
+    "id": "events-img-4552",
+    "category": "events",
+    "file": "IMG_4552.jpg",
+    "path": "/photos/events/img-4552",
+    "width": 4160,
+    "height": 6240,
+    "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABwAwCdASoQABgAPu1iqU2ppaOiMAgBMB2JQBbZBD4bB5r7KUAA/vQp7AjeGh78Bqid5bRrgB2xWSiPcDZUolGNp6WLzRstCEWsO4p6FrmBzOuJR5nYW3E5aTakaZiH4gAAAA==",
+    "color": "#080808",
+    "exif": {
+      "camera": "Canon EOS RP",
+      "lens": "RF24-105mm F4-7.1 IS STM",
+      "focal": "54mm",
+      "aperture": "f/5.6",
+      "shutter": "1/100s",
+      "iso": "ISO 1600"
+    },
+    "sourceMtime": 1795011177705.097
+  },
+  {
+    "id": "events-img-4653",
+    "category": "events",
+    "file": "IMG_4653.jpg",
+    "path": "/photos/events/img-4653",
+    "width": 4160,
+    "height": 6240,
+    "blur": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQBACdASoQABgAPu1iqU2ppaQiMAgBMB2JbACsACHgTAVAipvyFrOuIAD+7ELe3Qpk2n2RFqNv9JNOa29JNNX8Ucq1/m3kG4YG+/BqoNyU3ax8+fH7xPj0zyU0nW8A2/J7o/To/g36WTrmrG3+Zi562asJzLOCAAA=",
+    "color": "#080808",
+    "exif": {
+      "camera": "Canon EOS RP",
+      "lens": "RF24-105mm F4-7.1 IS STM",
+      "focal": "68mm",
+      "aperture": "f/6.3",
+      "shutter": "1/100s",
+      "iso": "ISO 1600"
+    },
+    "sourceMtime": 1795011147027.5051
+  },
+  {
+    "id": "events-img-4826",
+    "category": "events",
+    "file": "IMG_4826.jpg",
+    "path": "/photos/events/img-4826",
+    "width": 3267,
+    "height": 4900,
+    "blur": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAABQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JZgC7MoMrZEmg+JphzJ96ba2AAP7w2ZHpNeAvOO0BEnQnzKE+ToP2mZgvtyj4avVz4PLLJW98oc8FGvCPpQk1O64Dr/4nSGHlFVkxBegkGf/NwB33/TP5mgeB+K4a6xWJVHkohjHeGt729v+g36Zl9xt2uiYWr6//s00QAAA=",
+    "color": "#080808",
+    "exif": {
+      "camera": "Canon EOS RP",
+      "lens": "RF24-105mm F4-7.1 IS STM",
+      "focal": "50mm",
+      "aperture": "f/5.6",
+      "shutter": "1/40s",
+      "iso": "ISO 400"
+    },
+    "sourceMtime": 1795011116556.9429
+  },
+  {
+    "id": "events-img-4829",
+    "category": "events",
+    "file": "IMG_4829.jpg",
+    "path": "/photos/events/img-4829",
+    "width": 4160,
+    "height": 6240,
+    "blur": "data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAAAQBQCdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdMoMYHYADlGn38o9NveDEQQ8ywvKoAP7mmMyFnGlzXhHJUp4a/cyuNfMqL80tX1KXkcyMPjsWhb49kTYDQgORJw7ajbwUai8WhlZ3J/YW0jyCrnqk9sW2v/X+8rwbqh0lLTKj5U9sRFJOcAuVkG1sTSIaAH9I9a1a5GRShz3z0zOC/K1HuApUZtjV+Ttxvd5BDFnD4kUeuye/OoP8dV9MUUxojwzDfeVKV7wMCbiWMEmuRfvGuXFMg/IAAAA=",
+    "color": "#280808",
+    "exif": {
+      "camera": "Canon EOS RP",
+      "lens": "RF24-105mm F4-7.1 IS STM",
+      "focal": "46mm",
+      "aperture": "f/5",
+      "shutter": "1/40s",
+      "iso": "ISO 400"
+    },
+    "sourceMtime": 1795011115773.2715
+  },
+  {
+    "id": "events-img-5132",
+    "category": "events",
+    "file": "IMG_5132.jpg",
+    "path": "/photos/events/img-5132",
+    "width": 2953,
+    "height": 4429,
+    "blur": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAABwAwCdASoQABgAPu1iqU2ppaOiMAgBMB2JaQAAXfTze7SF5wAA/vQsl04r5xWjsiYS0SDz2YuUDbCznsuEkENAVS6IAA==",
+    "color": "#080808",
+    "exif": {
+      "camera": "Canon EOS RP",
+      "lens": "RF24-105mm F4-7.1 IS STM",
+      "focal": "26mm",
+      "aperture": "f/4",
+      "shutter": "1/200s",
+      "iso": "ISO 100"
+    },
+    "sourceMtime": 1791593817559.9116
+  },
+  {
+    "id": "events-img-5321",
+    "category": "events",
+    "file": "IMG_5321.jpg",
+    "path": "/photos/events/img-5321",
+    "width": 3041,
+    "height": 4561,
+    "blur": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAADwAwCdASoQABgAPu1mq04ppaQiMAgBMB2JQAALfXyd/5cGD/nxXlAAAP70G/5wGX/IxIbHfD/rFxVSAAv4Q/s9d6oYWj0Vaq14kGaHRQ/igbWHFEFZ/pK+y4mbT+PUpd8Np8JgKJGqLWZjky3Us9T4wJ66EdfNAAA=",
+    "color": "#080808",
+    "exif": {
+      "camera": "Canon EOS RP",
+      "lens": "RF24-105mm F4-7.1 IS STM",
+      "focal": "40mm",
+      "aperture": "f/5",
+      "shutter": "1/180s",
+      "iso": "ISO 100"
+    },
+    "sourceMtime": 1791593820089.807
+  },
+  {
+    "id": "nature-img-0143",
+    "category": "nature",
+    "file": "IMG_0143.jpg",
+    "path": "/photos/nature/img-0143",
+    "width": 4160,
+    "height": 6240,
+    "blur": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAACQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JZQCdMoC4AKEMXSW/0ZaBGOr5CAAA/un4+9iPJ4Vwpvej2MgEAFhpoHqYsHTlSyeKt+3wWYNRB7Eh8/7G1FahUSdmTbqk4A7vVITbH/aaTyOyPdxrHY6IW2pgzrLXaCXl1IjdA6GUvh8G0VN3PanDaTW6WRc/7ZqrdauO6X/fH+bC7Sy0INlMJpESjuaeBGTUR/DfMQAAAA==",
+    "color": "#382818",
+    "exif": {
+      "camera": "Canon EOS RP",
+      "lens": "RF50mm F1.8 STM",
+      "focal": "50mm",
+      "aperture": "f/2",
+      "shutter": "1/250s",
+      "iso": "ISO 250"
+    },
+    "sourceMtime": 1789038902543.7861
+  },
+  {
+    "id": "nature-img-0223",
+    "category": "nature",
+    "file": "IMG_0223.jpg",
+    "path": "/photos/nature/img-0223",
+    "width": 4160,
+    "height": 6240,
+    "blur": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAABwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdMoRwABoqcAB7Y9aPd8nuwAD+7027/mOJexb+WG+3whqiBGX+lJUMOAPZ7do1GEgAGnsDteIq9dfgGB2fTOvkUveyedb+emRrBBaT/uZ7tvfs3qHSCGIT+h2q/taYeuAQ7hHuJUNVpG3uublw5hqWDsD6H4UvVCKTICYVwAAA",
+    "color": "#281808",
+    "exif": {
+      "camera": "Canon EOS RP",
+      "lens": "RF50mm F1.8 STM",
+      "focal": "50mm",
+      "aperture": "f/2.2",
+      "shutter": "1/250s",
+      "iso": "ISO 100"
+    },
+    "sourceMtime": 1789038909033.9497
+  },
+  {
+    "id": "nature-img-1520",
+    "category": "nature",
+    "file": "IMG_1520.jpg",
+    "path": "/photos/nature/img-1520",
+    "width": 6240,
+    "height": 4160,
+    "blur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADQAQCdASoQAAsAA4BaJZgCdAEM1ZouAAD2RyVtuIEYVESwkhp6f33Cv/AAYxqG89jNwEY+UGXy9tDjR96oW/BbANbFjdpjFwIoF0/SAAA=",
+    "color": "#f8f8f8",
+    "exif": {
+      "camera": "Canon EOS RP",
+      "lens": "RF50mm F1.8 STM",
+      "focal": "50mm",
+      "aperture": "f/6.3",
+      "shutter": "1/250s",
+      "iso": "ISO 320"
+    },
+    "sourceMtime": 1789038918020.4517
+  },
+  {
+    "id": "nature-img-1991",
+    "category": "nature",
+    "file": "IMG_1991.jpg",
+    "path": "/photos/nature/img-1991",
+    "width": 6122,
+    "height": 4081,
+    "blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAwAgCdASoQAAsAA4BaJbACdAEVwqKfCez7YAD+4XwziOSbmfLBPCtZdniCqiXqM1Uem7n0b99cxyHgshT7Wp39gmviN3UKl52a3yA3E9zmudBu3/IAAA==",
+    "color": "#e8d8c8",
+    "exif": {
+      "camera": "Canon EOS RP",
+      "lens": "RF24-105mm F4-7.1 IS STM",
+      "focal": "24mm",
+      "aperture": "f/8",
+      "shutter": "1/160s",
+      "iso": "ISO 100"
+    },
+    "sourceMtime": 1789038953864.3645
+  },
+  {
+    "id": "nature-img-2325",
+    "category": "nature",
+    "file": "IMG_2325.jpg",
+    "path": "/photos/nature/img-2325",
+    "width": 6240,
+    "height": 4160,
+    "blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoQAAsAA4BaJbACdAEO5ID5fCzgAP7rp+6QzoJLnbv4EoB1Wzq4RhsSel4lwJDlQqrJpd72NCaTgbX6HMqfalR2dSVkivZje76Hx+BZ9dgAAA==",
+    "color": "#f8f8f8",
+    "exif": {
+      "camera": "Canon EOS RP",
+      "lens": "RF24-105mm F4-7.1 IS STM",
+      "focal": "60mm",
+      "aperture": "f/8",
+      "shutter": "1/125s",
+      "iso": "ISO 100"
+    },
+    "sourceMtime": 1789038986058.9426
+  },
+  {
+    "id": "portraits-img-0802",
+    "category": "portraits",
+    "file": "IMG_0802.jpg",
+    "path": "/photos/portraits/img-0802",
+    "width": 3939,
+    "height": 5908,
+    "blur": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAACQBACdASoQABgAPu1iqk4ppaQiMAgBMB2JbACdMoAluUfpq1Ok4lKmstP0wEAA/vuqcYt6Xe330EV58KDq1n0P1WjVJk7S5O8vuW3hdsszBQRk5W6JGQl9z7ns9mAZNLdn8UlEMqf2ciLQlnGLCJEYLFOLM0cSE/WeWps4jsIs8oQzZGFrbuIXDgL0G5UlREYdjsD7v0YJiM08z1h23LxJeiTNXFeYwONZrksOQAA=",
+    "color": "#d8e8e8",
+    "exif": {
+      "camera": "Canon EOS RP",
+      "lens": "RF24-105mm F4-7.1 IS STM",
+      "focal": "105mm",
+      "aperture": "f/7.1",
+      "shutter": "1/160s",
+      "iso": "ISO 100"
+    },
+    "sourceMtime": 1784057132222.113
+  },
+  {
+    "id": "portraits-img-3681",
+    "category": "portraits",
+    "file": "IMG_3681.jpg",
+    "path": "/photos/portraits/img-3681",
+    "width": 4037,
+    "height": 6056,
+    "blur": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAAAwBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdMoMYAEHHVedE0yVWATwA/qmVCD8abCjNdNC9nAQG6PS1Jt6teCvKFVXnOh3xmd0mLLszwSKEIhsfML7Ri2FtaBP8M56q0AV/Q7BxD5dzRcuSaZn+nZYNJaaeURit6j+mIpiGi+wZPxiDqTGSJduw596LnjlkCzpBZNIAAA==",
+    "color": "#4878a8",
+    "exif": {
+      "camera": "Canon EOS RP",
+      "lens": "RF24-105mm F4-7.1 IS STM",
+      "focal": "24mm",
+      "aperture": "f/5.6",
+      "shutter": "1/180s",
+      "iso": "ISO 100"
+    },
+    "sourceMtime": 1795010982517.028
+  },
+  {
+    "id": "portraits-img-3847",
+    "category": "portraits",
+    "file": "IMG_3847.jpg",
+    "path": "/photos/portraits/img-3847",
+    "width": 3448,
+    "height": 5172,
+    "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAwCdASoQABgAPu1iqU2ppaOiMAgBMB2JZQAAXBsUpLJnQw6cOL+AAP7sCu1VTJkEKC+o8yaVEGd8HoXZYa/zO4qnZG3o8/t845PqPmwkpEs5XaFPSqA5nydzRBy2aENWAAAA",
+    "color": "#080808",
+    "exif": {
+      "camera": "Canon EOS RP",
+      "lens": "RF24-105mm F4-7.1 IS STM",
+      "focal": "24mm",
+      "aperture": "f/5.6",
+      "shutter": "1/200s",
+      "iso": "ISO 100"
+    },
+    "sourceMtime": 1795011026708.895
+  },
+  {
+    "id": "portraits-img-5720",
+    "category": "portraits",
+    "file": "IMG_5720.jpg",
+    "path": "/photos/portraits/img-5720",
+    "width": 3628,
+    "height": 5442,
+    "blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAACwAwCdASoQABgAPu1kq04ppaQiMAgBMB2JaQAAW+vnkqhXjqX8AAD+9Bv3uX2OJgXdRUkezXMrmL4FJANFGJwaXPBRzvxVp3QEmQQzkXAVaOAA",
+    "color": "#080808",
+    "exif": {
+      "camera": "Canon EOS RP",
+      "lens": "RF24-105mm F4-7.1 IS STM",
+      "focal": "52mm",
+      "aperture": "f/6.3",
+      "shutter": "1/180s",
+      "iso": "ISO 320"
+    },
+    "sourceMtime": 1791593821286.5994
+  },
+  {
+    "id": "portraits-img-6100",
+    "category": "portraits",
+    "file": "IMG_6100.jpg",
+    "path": "/photos/portraits/img-6100",
+    "width": 4160,
+    "height": 6240,
+    "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQBACdASoQABgAPu1kqk2ppaQiMAgBMB2JYwC7ACHhoVqoYeaiGrAHYAD+9Clkb149qDEQ81V9OrAVSL1/TwOWlg2DHnLd4vPyMl+g2wLu6dpkbQEQKeRu2uth400svU+llw/izGY7z3o5anTQlnAA",
+    "color": "#080808",
+    "exif": {
+      "camera": "Canon EOS RP",
+      "lens": "RF24-105mm F4-7.1 IS STM",
+      "focal": "99mm",
+      "aperture": "f/7.1",
+      "shutter": "1/180s",
+      "iso": "ISO 320"
+    },
+    "sourceMtime": 1791593827694.0813
+  },
+  {
+    "id": "portraits-img-6128",
+    "category": "portraits",
+    "file": "IMG_6128.jpg",
+    "path": "/photos/portraits/img-6128",
+    "width": 4160,
+    "height": 6240,
+    "blur": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAACQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JQBdgO51wOu3oc3x0a56Uh2qrmfAA/rqAs2K2FWEcfUbnn/yMlSM9z+CCNO2Z1E6oTsA0Cq9sF4sJYxg8vEI2s/KeaSBEHork97Le9FGJn/6DPMk23/jizPD9uS6WvqYqlD835LCO+dBnY95zyjqw6xvAaGbAqOpJUT3tInj8bHInG/516T2raHAcitmeSVdVWWx1v0QAAA==",
+    "color": "#080808",
+    "exif": {
+      "camera": "Canon EOS RP",
+      "lens": "RF24-105mm F4-7.1 IS STM",
+      "focal": "68mm",
+      "aperture": "f/6.3",
+      "shutter": "1/180s",
+      "iso": "ISO 320"
+    },
+    "sourceMtime": 1791593829450.6833
+  },
+  {
+    "id": "portraits-img-6153-04",
+    "category": "portraits",
+    "file": "IMG_6153-04.jpg",
+    "path": "/photos/portraits/img-6153-04",
+    "width": 1778,
+    "height": 2621,
+    "blur": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAADwAwCdASoQABgAPu1iqU2ppaOiMAgBMB2JQBOgBDd44yPCnVDfXqDAAP7vfB47icSufBYEFhpf1BNLd6BP+wyouKEJmJY5BN5Aw+pa5VNR4AaSqVuDMsz8Bn9mv0TC8riRrj0gqxMSsB0q69NAfBnSaXpKoD3jwUueRDbIRwuRR0rUAAA=",
+    "color": "#080808",
+    "sourceMtime": 1776192693805.4438
+  },
+  {
+    "id": "portraits-img-6153-09",
+    "category": "portraits",
+    "file": "IMG_6153-09.jpg",
+    "path": "/photos/portraits/img-6153-09",
+    "width": 1778,
+    "height": 2621,
+    "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JYgCdAB6O4y3RL3neTBuZ8AD+vkUkOev7piym/vGxJQVQe2FtTGnEPRKa1C30FQIiF1VR91QQYmqEWwRfV62G6d1Xs/IO+KkClxBSislgQSNWQS010AAA",
+    "color": "#080808",
+    "sourceMtime": 1776192699925.7441
+  },
+  {
+    "id": "portraits-img-6402",
+    "category": "portraits",
+    "file": "IMG_6402.jpg",
+    "path": "/photos/portraits/img-6402",
+    "width": 4160,
+    "height": 6240,
+    "blur": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAABQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JYwCdMoADTQ3EYxNAH1vweKgAAP7N+VsSikCIw0Mgyue4XGUSp4QsUUS6Bg87upGzgW/kGiZL12JpPgIftYODj6YOdGl2HK1Ww3O/AsRDBI8txq7PVh7v5EaSsFTNMFuKhcatugRepSIsqrTETUpKIqPfuu3vLgAAAA==",
+    "color": "#080808",
+    "exif": {
+      "camera": "Canon EOS RP",
+      "lens": "RF24-105mm F4-7.1 IS STM",
+      "focal": "63mm",
+      "aperture": "f/6.3",
+      "shutter": "1/160s",
+      "iso": "ISO 800"
+    },
+    "sourceMtime": 1795011410020.6096
+  },
+  {
+    "id": "portraits-img-9937",
+    "category": "portraits",
+    "file": "IMG_9937.jpg",
+    "path": "/photos/portraits/img-9937",
+    "width": 4160,
+    "height": 6240,
+    "blur": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAAAQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JbACdMoRwACnI6iaARY9GIAD+6dkoVnBxJWsjh+kQfkfh6Cgh6EV+dWna9xR/TJnSayKfohEQhctbZm+0eUYXWEu3380TDVFhy4bz5fc7UrdjmRFSVv9TACsxo/z/15R4d/z4Y/692pr10w/8R+gUCYW/r0P+Hqt9qSAA",
+    "color": "#281808",
+    "exif": {
+      "camera": "Canon EOS RP",
+      "lens": "RF50mm F1.8 STM",
+      "focal": "50mm",
+      "aperture": "f/3.5",
+      "shutter": "1/250s",
+      "iso": "ISO 1600"
+    },
+    "sourceMtime": 1789038880526.0664
+  },
+  {
+    "id": "portraits-v-h",
+    "category": "portraits",
+    "file": "v h.jpg",
+    "path": "/photos/portraits/v-h",
+    "width": 2101,
+    "height": 3151,
+    "blur": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAABQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JYgAD5CHZyQBSgWnH5pBKv5yYAP7u8CGky6351A5ZLUPUe+sg0tHUkfyE099Q1EbprvAT9PubJZjaWI2+nEcuECnrJe6FYcNDl1GFcZmM4Fqbbu6fr9/Alnu0g9+u5e6GcTeut8AFp87Nuq1r1pPQh+F0JVC8dnQ8dU0avYbEHoRJ8pAE0XiQWhBelK/BeAA=",
+    "color": "#080808",
+    "sourceMtime": 1789301447438.1604
+  },
+  {
+    "id": "street-bus-5",
+    "category": "street",
+    "file": "bus-5.jpg",
+    "path": "/photos/street/bus-5",
+    "width": 2098,
+    "height": 2621,
+    "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAACwAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JZQAAVGO8v39z0tmDgAD+5F+dT26ulW/hyN/GZH3HmOcbVOqsADkMpUbcHNQbTDIq2iwFImbvrSHxVU+864rhWHOZ8bQQA9HT3vZQoKRmvleYV1IAAA==",
+    "color": "#080808",
+    "sourceMtime": 1776100846097.7197
+  },
+  {
+    "id": "street-pl-3",
+    "category": "street",
+    "file": "pl-3.jpg",
+    "path": "/photos/street/pl-3",
+    "width": 1778,
+    "height": 2621,
+    "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABQBACdASoQABgAPu1iqU2ppaQiMAgBMB2JYwC/OCHfCPcTO6hzU2o2JHUAAP70UBVKcF1XHUV6oGMdpHDG7ux/PNFzEFf6NBx3NFd1ApGiNJtyjSe6e6krQxbG0T4JK/bxCqLgAAA=",
+    "color": "#080808",
+    "sourceMtime": 1777808219821.5352
+  }
+]

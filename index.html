@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#0a0a09" />
+    <meta name="color-scheme" content="dark" />
+
+    <title data-static-seo>Shot by Gidikovv — Photography by Martin Gidikovv, Bulgaria</title>
+    <meta
+      data-static-seo
+      name="description"
+      content="Cinematic photography by Martin Gidikovv — events, portraits, street, nature and automotive work from Bulgaria. Available for commissions."
+    />
+    <meta name="author" content="Martin Gidikovv" />
+    <link data-static-seo rel="canonical" href="%SITE_URL%/" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Shot by Gidikovv" />
+    <meta data-static-seo property="og:title" content="Shot by Gidikovv — Photography" />
+    <meta data-static-seo property="og:description" content="Cinematic photography from Bulgaria by Martin Gidikovv." />
+    <meta data-static-seo property="og:image" content="%SITE_URL%/og-image.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta data-static-seo property="og:url" content="%SITE_URL%/" />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+
+    <script>
+      // Preload the hero frame only on the homepage — the right one for the viewport.
+      if (location.pathname === '/') {
+        var portrait = matchMedia('(orientation: portrait)').matches
+        var base = portrait ? '/photos/events/img-4826' : '/photos/events/img-2750'
+        var l = document.createElement('link')
+        l.rel = 'preload'
+        l.as = 'image'
+        l.type = 'image/webp'
+        l.setAttribute('imagesrcset', base + '-960.webp 960w, ' + base + '-1600.webp 1600w, ' + base + '-2400.webp 2400w')
+        l.setAttribute('imagesizes', '100vw')
+        l.setAttribute('fetchpriority', 'high')
+        document.head.appendChild(l)
+      }
+    </script>
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "ProfessionalService",
+        "name": "Shot by Gidikovv",
+        "description": "Event, portrait, street, nature and automotive photography.",
+        "url": "%SITE_URL%/",
+        "image": "%SITE_URL%/og-image.jpg",
+        "areaServed": "Bulgaria",
+        "address": { "@type": "PostalAddress", "addressCountry": "BG" },
+        "founder": { "@type": "Person", "name": "Martin Gidikovv", "jobTitle": "Photographer" },
+        "sameAs": ["https://www.instagram.com/shot.by.gidikovv/"]
+      }
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <noscript>
+      <p style="padding: 2rem; color: #e9e6df; font-family: system-ui">
+        Shot by Gidikovv — photography by Martin Gidikovv. Please enable JavaScript to view the portfolio, or find the
+        work on Instagram: @shot.by.gidikovv
+      </p>
+    </noscript>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
